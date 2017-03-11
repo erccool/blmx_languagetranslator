@@ -11,7 +11,7 @@
             },
             "Packager": "com.ibm.perfectstorm.cloudoe.packager.LiveEditDeploymentPackager"
         },
-        "Name": "Cloud",
+        "Name": "Cloud - Edward - Neil",
         "Target": {
             "Org": "Dev s12",
             "Space": "Dev s12",
